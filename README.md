@@ -1,8 +1,9 @@
-# Home Security System Based on SIM800
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/915896b9-7a9b-4496-b3ac-b5e67884ae17" /># Home Security System Based on SIM800
 
 A GSM/SIM800-based home security system that detects unauthorized entry and alerts the homeowner via SMS and phone call. The system consists of a control panel (main board), sensors, and sirens, and can be controlled remotely over SMS.
 
-![Main Board](Images/1.jpg)
+![Main Board](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/144e96bc-eadc-4b5d-bb52-6bf599bcd5e8" />
+)
 
 ---
 
