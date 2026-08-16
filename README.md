@@ -172,4 +172,3 @@ flowchart LR
 
 [MIT License](LICENSE) — Free Hardware!
 
-This project is a modified version of the original work by **alialaei1**. The original license and copyright notice are preserved in the [`LICENSE`](LICENSE) file, as required by the MIT License terms.
