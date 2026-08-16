@@ -79,7 +79,8 @@ flowchart TB
 | Connectivity | Wi-Fi (IoT) |
 | Control | Full on/off/settings control via SMS |
 
-![Feature Diagram](Images/4.PNG)
+<img width="935" height="720" alt="image" src="https://github.com/user-attachments/assets/af9f8cde-4cc6-4ac5-9158-8aa8a7f3d57e" />
+
 
 ---
 
