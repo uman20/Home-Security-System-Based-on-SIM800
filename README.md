@@ -167,7 +167,4 @@ flowchart LR
 
 ---
 
-## License
-
-[MIT License](LICENSE) — Free Hardware!
 
