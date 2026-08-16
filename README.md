@@ -2,8 +2,7 @@
 
 A GSM/SIM800-based home security system that detects unauthorized entry and alerts the homeowner via SMS and phone call. The system consists of a control panel (main board), sensors, and sirens, and can be controlled remotely over SMS.
 
-![Main Board](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/144e96bc-eadc-4b5d-bb52-6bf599bcd5e8" />
-)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3c0866da-2c77-4e82-bc5a-0908ceec7011" />
 
 ---
 
