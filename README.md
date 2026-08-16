@@ -23,12 +23,10 @@ A GSM/SIM800-based home security system that detects unauthorized entry and aler
 
 The sensors can be placed on doors, windows, and other areas around the home to detect movement or disturbance. When triggered, the control panel sends calls and text messages to the homeowner's phone. The system can also be armed, disarmed, and queried remotely via SMS from anywhere.
 
-![Sensor Placement](Images/2.jpg)
+<img width="734" height="560" alt="image" src="https://github.com/user-attachments/assets/f22aa617-86fe-4a9b-995f-d3b72cb40bdd" />
+
 
 This project has been tested for 4000+ hours of operation.
-
-![Testing](Images/3.jpg)
-
 ---
 
 ## System Architecture
